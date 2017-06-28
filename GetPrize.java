@@ -13,6 +13,7 @@ public class GetPrize{
 				System.out.println("get prize");
 			}else{
 				System.out.println("nothing");
+				test
 			}
 		}
 	}
